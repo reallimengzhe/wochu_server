@@ -1,0 +1,58 @@
+[
+    {
+        "title": "轮播",
+        "picUrl": "https://img.wochu.cn/upload/4d686275-3d61-48c7-a979-ed36c866687f.jpg",
+        "enabled": 1,
+        "sortIndex": 1,
+        "sortIndexDes": "渔人节",
+        "action": {
+            "type": 2,
+            "data": {
+                "type": 1,
+                "target": "https://wmall.wochu.cn/h5/activityTemplate/html/newActivityTemplatew.html?activityId=44"
+            }
+        }
+    },
+    {
+        "title": "轮播",
+        "picUrl": "https://img.wochu.cn/upload/c84680bd-0455-4188-9d40-8a923a94a133.gif",
+        "enabled": 1,
+        "sortIndex": 2,
+        "sortIndexDes": "我厨菜园",
+        "action": {
+            "type": 2,
+            "data": {
+                "type": 1,
+                "target": "https://wmall.wochu.cn/h5/activityTemplate/html/newActivityTemplatew.html?activityId=43"
+            }
+        }
+    },
+    {
+        "title": "红包轮播",
+        "picUrl": "https://img.wochu.cn/upload/69e8cf4b-b955-4912-887e-8aaa7d47183b.jpg",
+        "enabled": 1,
+        "sortIndex": 3,
+        "sortIndexDes": "拉新红包",
+        "action": {
+            "type": 2,
+            "data": {
+                "type": 1,
+                "target": "https://wmall.wochu.cn/h5/AppPage/LaXinRegisterPage/beforeShare.html?activityid=1"
+            }
+        }
+    },
+    {
+        "title": "轮播",
+        "picUrl": "https://img.wochu.cn/upload/5f2d6b81-f0fd-4543-b5a3-bb1d6d94c804.jpg",
+        "enabled": 1,
+        "sortIndex": 4,
+        "sortIndexDes": "社群",
+        "action": {
+            "type": 2,
+            "data": {
+                "type": 1,
+                "target": "https://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=582"
+            }
+        }
+    }
+]

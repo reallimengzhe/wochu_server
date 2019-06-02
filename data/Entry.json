@@ -1,0 +1,72 @@
+[
+    {
+        "imgUrl": "https://img.wochu.cn/upload/02fb3af7-9b8e-4377-9e81-89a5b420dcd2.jpg",
+        "type": "1",
+        "source": "https://wmall.wochu.cn/h5/AppPage/LaXinRegisterPage/beforeShare.html?activityid=1",
+        "pos": 1,
+        "$$hashKey": "object:229",
+        "goodsName": "",
+        "posDes": "拆红包"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/82cfb76f-f8a0-40df-834e-6b712ee7bfe9.jpg",
+        "type": "8",
+        "source": "",
+        "pos": 2,
+        "$$hashKey": "object:189",
+        "goodsName": "",
+        "posDes": "套餐"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/bd5e5ae5-7ba4-45e3-8c5b-8adf7e559685.jpg",
+        "type": "5",
+        "source": "https://wmall.wochu.cn/h5/tg/groupList.html",
+        "pos": 3,
+        "$$hashKey": "object:244",
+        "goodsName": "",
+        "posDes": "团购"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/e12d7760-6e6f-42f1-9930-59427decff22.jpg",
+        "type": "1",
+        "source": "https://wmall.wochu.cn/h5/activityTemplate/html/activityPagew.html?activityId=268",
+        "pos": 4,
+        "$$hashKey": "object:262",
+        "goodsName": "",
+        "posDes": "特价净菜专区"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/569ac12c-cf8d-406b-95ea-be4aac56c6bf.jpg",
+        "type": "1",
+        "source": "https://wmall.wochu.cn/h5/activityTemplate/html/activityPagew.html?activityId=597",
+        "pos": 1,
+        "goodsName": "",
+        "posDes": "本周新品区"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/bccafdc6-1d68-428b-8a2b-47972f80be7e.jpg",
+        "type": "11",
+        "source": "",
+        "pos": 2,
+        "goodsName": "",
+        "posDes": "老带新"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/99f7a8e3-8100-4324-b415-a42e8e8b2c58.jpg",
+        "type": "12",
+        "source": "",
+        "pos": 3,
+        "goodsName": "",
+        "posDes": "充值"
+    },
+    {
+        "imgUrl": "https://img.wochu.cn/upload/025497c5-1bee-439a-b279-aedf5939e96c.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=730",
+        "pos": 4,
+        "goodsName": "",
+        "posDes": "银行"
+    }
+]
+    
+

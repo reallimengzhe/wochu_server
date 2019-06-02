@@ -1,0 +1,512 @@
+{
+    "products": [
+        {
+            "image": "https://image.missfresh.cn/64037fcda7134ee08887c938be18f994.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                },
+                {
+                    "color": 13405338,
+                    "name": "特价商品不支持红包",
+                    "icon": "https://image.missfresh.cn/category_tag_images/2B60921B92EEC6AC8078B8F5311FEAD1.PNG",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 1290,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 590,
+                    "name": ""
+                }
+            },
+            "subtitle": "一口一个甜满你的嘴",
+            "name": "【新人】砂糖桔1盒500g",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdstj-1j",
+            "stock": 91,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/88d169a12d254aaab805c9f8d440a35a.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                },
+                {
+                    "color": 13405338,
+                    "name": "特价商品不支持红包",
+                    "icon": "https://image.missfresh.cn/category_tag_images/2B60921B92EEC6AC8078B8F5311FEAD1.PNG",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 1420,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 700,
+                    "name": ""
+                }
+            },
+            "subtitle": "在你的眼里，有我才甜蜜",
+            "name": "「新人」泰国龙眼500g*1盒",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdtgly-1j",
+            "stock": 34,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/d6ac2aff838f470e87d3dbdcab87f386.jpg",
+            "vip_exclusive": 2,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "showTag": 0,
+                    "price": 690,
+                    "name": "",
+                    "is_ex_price": 0
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16301056,
+                    "showTag": 1,
+                    "price": 680,
+                    "name": "优享会员价",
+                    "is_ex_price": 1
+                }
+            },
+            "subtitle": "想陪你一直甜蜜甜蜜蜜",
+            "name": "「新人」千禧圣女果1盒500g",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdhnqxsng-1h",
+            "stock": 12,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://fms-image.missfresh.cn/38a5c3d0d820491181adb5d325c821c8.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                },
+                {
+                    "color": 13405338,
+                    "name": "特价商品不支持红包",
+                    "icon": "https://image.missfresh.cn/category_tag_images/2B60921B92EEC6AC8078B8F5311FEAD1.PNG",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 990,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 590,
+                    "name": ""
+                }
+            },
+            "subtitle": "浑身都是宝 吃了我就好",
+            "name": "「新人」越南红肉火龙果1个300g起",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdsghrhlg-1g",
+            "stock": 16,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/c09fc07b90464ffab0dfa9fa6778d72f.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 790,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 580,
+                    "name": ""
+                }
+            },
+            "subtitle": "像重庆妹子一样水灵灵的甜",
+            "name": "「新人」奉节脐橙4个600g起",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdsgfjqc-4g",
+            "stock": 14,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/82de8f291ee8451581ba6d1c766bab68.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 1390,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 490,
+                    "name": ""
+                }
+            },
+            "subtitle": "清甜的汁水在嘴里像烟花绽放",
+            "name": "[新人]四川春见耙耙柑2个340g起",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdsgppg-2g",
+            "stock": 12,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/a071c95285e04cea8e5c109734a84c5f.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 580,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 280,
+                    "name": ""
+                }
+            },
+            "subtitle": "沙瓤细腻 小时候的酸甜味道",
+            "name": "「新人」番茄500g起",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-HDfq-500g-PJC",
+            "stock": 3,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "http://missfresh-fms.ufile.ucloud.cn/75bf66addb6b4cd1b9f97614ff2d2ad8.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": "",
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 380,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 120,
+                    "name": ""
+                }
+            },
+            "subtitle": "国民家常菜 百变都美味",
+            "name": "「新人」土豆500g起",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdzctd-1d-PJC",
+            "stock": 48,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/83177d6f8a064c0884291426392928a1.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 290,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 150,
+                    "name": ""
+                }
+            },
+            "subtitle": "清口小菜 轻掐可断的鲜嫩",
+            "name": "「新人」上海青300-350g",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdshq-1d-PJC",
+            "stock": 58,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/f354dd538ae94b77b586512bc77a60c8.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": null,
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 250,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 130,
+                    "name": ""
+                }
+            },
+            "subtitle": "口感厚嫩，适合家常炒肉",
+            "name": "红洋葱500g-700g",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdhyc-500g-700g-PJC",
+            "stock": 23,
+            "promoteLevel": 0,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/d8822f9768e5474b91f3c8cb11136d78.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 290,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 150,
+                    "name": ""
+                }
+            },
+            "subtitle": "爽脆甘甜的“小人参”",
+            "name": "「新人」胡萝卜500-600g",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdhlb-56-1d",
+            "stock": 13,
+            "promoteLevel": 3,
+            "pao": 0
+        },
+        {
+            "image": "https://image.missfresh.cn/064c7f948d7a47a082ffeea809a63625.jpg",
+            "vip_exclusive": 0,
+            "cart_btn_name": "加入购物车",
+            "sell_out": false,
+            "promote_tag": null,
+            "type": "product",
+            "buy_permission": 0,
+            "seckill_limit": 0,
+            "product_tags": [
+                {
+                    "color": 16097217,
+                    "name": "新人专享",
+                    "type": "property"
+                }
+            ],
+            "vip_price_pro": {
+                "price_up": {
+                    "show_type": 2,
+                    "color": 9868950,
+                    "price": 590,
+                    "name": ""
+                },
+                "price_down": {
+                    "show_type": 1,
+                    "color": 16730257,
+                    "price": 390,
+                    "name": ""
+                }
+            },
+            "subtitle": "软软糯糯 甜到心坎里",
+            "name": "「新人」精选甜玉米2根（600-700g）",
+            "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+            "nationwide": 0,
+            "vip_product": 0,
+            "promote_tag_new": "",
+            "sku": "p-xr-hdtym-2g-600g",
+            "stock": 13,
+            "promoteLevel": 3,
+            "pao": 0
+        }
+    ]
+}
